@@ -10,4 +10,5 @@ python:
 script:
   - printenv
   - which python
+  - ls /home/travis/virtualenv/python*
   
